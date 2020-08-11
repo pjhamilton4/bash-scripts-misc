@@ -1,0 +1,5 @@
+cvt 1152 1628
+
+xrandr --newmode "1152x1628_60.00" 158.50 1152 1240 1360 1568 1628 1631 1641 1687 -hsync +vsync
+
+xrandr --addmode Virtual1 1152x1628_60.00
